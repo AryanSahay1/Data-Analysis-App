@@ -104,7 +104,7 @@ Main Streamlit application containing:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/data-analysis-application.git
+git clone https://github.com/AryanSahay1/Data-Analysis-App
 cd data-analysis-application
 ```
 
